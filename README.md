@@ -11,6 +11,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) / [Patika](https://www.patika.d
 `https://github.com/omertonga/Kodluyoruz-InstagramClone.git`
 
 # Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için: 
 ```
 cd kodluyoruz-instagram-clone
