@@ -7,6 +7,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) / [Patika](https://www.patika.d
 # Installation
 
 Öncelikle Projeyi Klonlayın
+
 `https://github.com/omertonga/Kodluyoruz-InstagramClone.git`
 
 # Usage
